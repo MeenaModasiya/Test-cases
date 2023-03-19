@@ -1,0 +1,17 @@
+Tc#1 check the power button of coffee machine
+Tc#2 check the electricity connection 
+Tc#3 check the indicator light of coffee machine
+Tc#4 check the quantity of coffee when single time press button
+Tc#5 check the pressing the coffee button multiple time leads to multiple time serving of coffee or not
+Tc#6 check the how much amount of time machine takes to serve a single coffee
+Tc#7 check the function of coffee machine when two buttons are pressed simultaneously
+Tc#8 check that machine should not makes too much sound
+Tc#9 check that how machine perform when ingredient’s container run out
+Tc#10 check the capacity of ingredient’s container
+Tc#11 verify the temperature of coffee 
+Tc#12 verify the cup quantity counter of coffee should work properly
+Tc#13 verify that coffee machine is turned off when press off button
+Tc#14 verify that each time temperature of coffee is same or not
+Tc#15 check that how much power/voltage required for machine
+Tc#16 check the quantity of water, milk and coffee beans require 
+Tc#17 check the how machine acts when insert ingredients from another brand
