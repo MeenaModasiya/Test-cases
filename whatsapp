@@ -1,0 +1,38 @@
+Tc#1 check whether the application is successful install on mobile
+Tc#2 check if the user can register with a new phone number
+Tc#3 check whether user can get verification code
+Tc#4 check that verification code is correct or not
+Tc#5 check that verification code is incorrect and it display error message or not
+Tc#6 check the maximum number of verification code
+Tc#7 check that one phone number should be register with only one WhatsApp or not
+Tc#8 check that when verification code does not receive via SMS
+Tc#9 check the functionality verification code via call
+Tc#10 check that when verification code is receive via call,is it correct or not ?
+Tc#11 check that when user click on backup, is it restore all previous data or not ?
+Tc#12 check that user can upload profile picture
+Tc#13 check the successful registration on WhatsApp
+Tc#14 check that how application is response with internet connection and without internet connection
+Tc#15 check that all contacts are shows in WhatsApp contact list
+Tc#16 check that search, chats,status,contacts and calls sections are available on WhatsApp’s home screen
+Tc#17 check that user can send messages, images, files etc...
+Tc#18 check that user can receive message or not
+Tc#19 check that user can see unread messages
+Tc#20 check the functionality of incoming - outgoing call and video call
+Tc#21 check that user can send current location
+Tc#22 check that user can block and unblock to another user
+Tc#23 check that user can create group
+Tc#24 check that only admin can add others
+Tc#25 check that admin can remove user from the group and add back to group
+Tc#26 check that admin user can make admin to others
+Tc#27 check the functionality of the invite link option
+Tc#28 check that admin user can able to add people with invite link
+Tc#29 check that only admin can change group info like group name, profile etc..
+Tc#30 check that user is removed from the group then user will can’t see the update
+Tc#31 check that user can see setting option
+Tc#32 check the account functionality with security option like two step verification, change number and delete my account, it is work properly or not
+Tc#33 check that privacy option like  last seen, profile photo, about and status. It is work with my contact, everyone and nobody functionality
+Tc#34 check the chat functionality like chat backup, history, font size
+Tc#35 check the notification functionality like notification tone and also check if you want to see notification at top of the screen then you can set high priority or not
+Tc#36 check that user can change app language 
+Tc#37 check that user can successfully uninstall application
+Tc#38 check that after uninstall application it’s not shows on screen
